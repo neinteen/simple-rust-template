@@ -1,5 +1,6 @@
 [package]
 name = "simple-rust-template"
+description = "Very simple rust-github-project-template."
 authors = ["neinteen"]
 version = "0.1.0"
 edition = "2021"
